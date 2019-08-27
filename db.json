@@ -1,0 +1,25 @@
+{
+    "product": [
+        {
+        "id": "5405",
+        "name": "Flygforsening.se - få upp till 6.000 kr. i ersättning",
+        "campaignDetails": {
+        "imageUrl": "https://vmlcdn.com/campaign/feed/socialsecurity/flygforsening-logo.png",
+        "example": "Flygforsening.se hjälper flygresenärer att få den kompensation de har rätt tilll från flygbolag.",
+        "terms": null,
+        "name": "Flygforsening",
+        "rating": 94,
+        "ribbon": null,
+        "description": "Flygforsening.se hjälper flygresenärer att få den kompensation de har rätt tilll från flygbolag.",
+        "price": 222,
+        "specialPrice": 1999,
+        "url": "https://randomproduct.123.com",
+        "valid": true
+        },
+        "status": "ACTIVE",
+        "trackingLink": "https://vmltracker.com/trk/click/?cid=5405",
+        "vertical": "SOCIAL_SECURITY",
+        "order": 1
+        }
+    ]
+}
